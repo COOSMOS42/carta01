@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(297.12deg, #ff8c64 -1.93%, #fff587 102.27%);
+  font-family: "Gemunu Libre", sans-serif;
+}
+.container {
+  background: #fff79d;
+  margin: 50px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0e1d3f;
+  padding: 50px;
+}
+.titulo h1 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
